@@ -23,6 +23,14 @@ namespace nw02.Controllers
             var result=db.Products.ToList();
             return View(result);
         }
+public IActionResult KataGoreListe(int? id)
+{
+    var kategorelist=db.Products.Where(x=>x.CategoryId==id).ToList();
+    // TODO: Your code here
+    return View(kategorelist);
+}
+
+
          public IActionResult Create()
         {
           
