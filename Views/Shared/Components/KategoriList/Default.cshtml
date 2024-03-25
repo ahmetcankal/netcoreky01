@@ -1,0 +1,20 @@
+@model IEnumerable<Category>
+
+<div class="list-group list-group-light">
+  <a href="~/Urun/List" class="list-group-item list-group-item-action px-3 border-0 active" data-mdb-ripple-init
+    aria-current="true">Ürün List</a>
+  <a href="~/Urun/Create" class="list-group-item list-group-item-action px-3 border-0" data-mdb-ripple-init>Create</a>
+  <a href="#" class="list-group-item list-group-item-action px-3 border-0" data-mdb-ripple-init>A third link item with
+    a ripple</a>
+    @foreach(var item in Model)
+    {
+<a href="#" class="list-group-item list-group-item-action px-3 border-0" data-mdb-ripple-init>
+    @item.CategoryName
+    </a>
+    }
+
+  
+
+
+
+</div>
