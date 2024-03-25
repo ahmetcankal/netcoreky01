@@ -137,3 +137,8 @@ E:\prjs\nw02\obj\Debug\net8.0\ref\nw02.dll
 E:\prjs\nw02\bin\Debug\net8.0\package-lock.json
 E:\prjs\nw02\bin\Debug\net8.0\package.json
 E:\prjs\nw02\obj\Debug\net8.0\nw02.sourcelink.json
+E:\prjs\nw02\bin\Debug\net8.0\AdminLTE-3.2.0\.bundlewatch.config.json
+E:\prjs\nw02\bin\Debug\net8.0\AdminLTE-3.2.0\.eslintrc.json
+E:\prjs\nw02\bin\Debug\net8.0\AdminLTE-3.2.0\composer.json
+E:\prjs\nw02\bin\Debug\net8.0\AdminLTE-3.2.0\package-lock.json
+E:\prjs\nw02\bin\Debug\net8.0\AdminLTE-3.2.0\package.json
